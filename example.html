@@ -7,14 +7,13 @@
 <script src="phoneticunicode.js"></script>
 
 <body>
-<h2>Use Ctrl+Q to switch the Keyboard Mode</h2>
+<h2>Use Ctrl+Q to switch the Keyboard Mode [In FireFox] </h2>
 <form>
 <textarea name="bangla" id="bangla" cols="80" rows="10" onFocus="" style="font-family:vrinda; font-size: 20px; width: 400px; height: 100px;" ></textarea><br/>
-<input type="button" onclick="makePhoneticEditor('bangla'); " value="Prepare Text Editor for Phonetic Bangla" />
 <input type="button" onclick="switched=!switched;" value="switch keyboard mode" />
 </form>
 <script>
-//makePhoneticEditor('bangla'); //pass the textarea Id
+makePhoneticEditor('bangla'); //pass the textarea Id
 </script>
 </body>
 </html>
