@@ -103,6 +103,7 @@ phonetic['w'] ='\u09CD'+ '\u09AC'; // wri kar
 phonetic['W'] ='\u09C3';// wri kar
 phonetic['wr'] ='\u09C3'; // wri kar
 phonetic['x'] ="\u0995"  + '\u09CD'+ '\u09B8';
+phonetic['rY'] = phonetic['r']+ '\u200c'+ '\u09CD'+'\u09AF';;
 //End Set
 
 
