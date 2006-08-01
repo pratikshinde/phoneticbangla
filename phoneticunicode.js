@@ -134,6 +134,7 @@ function checkKeyUp(ev)
 		ctrlPressed = false;
 		//alert(ctrlPressed);
 	}
+
 }
 
 
