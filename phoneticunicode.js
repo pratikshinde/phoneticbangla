@@ -5,12 +5,12 @@
  * @name Ekushey Unicode Parser
  * @version 1.0 [Date 30th July, 2006]
  * @author Hasin Hayder. Visit My Homepage at http://hasin.wordpress.com
- * @license LGPL and CC
+ * @license LGPL
  */
  
 /**
- * This script is released under Dual License, Lesser GNU Public License [LGPL] and 
- * Creative Commons [CC] which implies that you are free to use this script in your 
+ * This script is released under Lesser GNU Public License [LGPL] 
+ * which implies that you are free to use this script in your 
  * web applications without any problem. No warranty ensured. If you like 
  * this script, Please acknowledge by keeping a link to my website 
  * http://hasin.wordpress.com in the page where you use this script. 
