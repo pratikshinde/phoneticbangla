@@ -104,6 +104,16 @@ phonetic['W'] ='\u09C3';// wri kar
 phonetic['wr'] ='\u09C3'; // wri kar
 phonetic['x'] ="\u0995"  + '\u09CD'+ '\u09B8';
 phonetic['rY'] = phonetic['r']+ '\u200c'+ '\u09CD'+'\u09AF';
+phonetic['L'] = phonetic['l'];
+phonetic['Z'] = phonetic['z'];
+phonetic['P'] = phonetic['p'];
+phonetic['V'] = phonetic['v'];
+phonetic['B'] = phonetic['b'];
+phonetic['M'] = phonetic['m'];
+phonetic['V'] = phonetic['v'];
+phonetic['X'] = phonetic['x'];
+phonetic['V'] = phonetic['v'];
+phonetic['F'] = phonetic['f'];
 //End Set
 
 
