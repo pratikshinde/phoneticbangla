@@ -1,0 +1,1 @@
+this script phonetically parse keystrokes into bangla unicode equivalent charaters. this script is extremely helpful for incorporating the bangla writing facility in web applications.
